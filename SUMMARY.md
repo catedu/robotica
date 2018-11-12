@@ -1,5 +1,6 @@
 # Summary
 
 * [Oferta](README.md)
-* [CONDICIONES](chapter1.md)
+* [CONDICIONES PRESTAMO](chapter1.md)
+* [TUTORIALES](tutoriales.md)
 
