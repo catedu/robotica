@@ -14,7 +14,7 @@ DESCARGABLES EN FORMATO PDF, ePUB, eMobi.. y **CON LICENCIA CC **puedes usarlos 
 * [Escornabot](https://catedu.gitbooks.io/escornabots/content/)
 * Microbit
   * [MicroBit](https://catedu.gitbooks.io/micro-bit/content/)
-  * [Microbit con SmartCar](https://catedu.gitbooks.io/micro-bit/content/smartcar.html)
+  * [Microbit con SmartCar](https://catedu.gitbooks.io/smartcar-micro-bit/content/pines_de_entrada_y_salida/)
 * Raspberry
   * [Básico](https://catedu.gitbooks.io/raspberry-muy-basico/content/)
   * [Pibrella](https://catedu.gitbooks.io/pibrella/content/)
