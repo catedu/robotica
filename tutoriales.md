@@ -28,6 +28,7 @@ Todos se encuentran en éste repositorio de GitBook [https://legacy.gitbook.com/
 ## Pensamiento computacional
 
 * [CODE](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-code-org/content/)
+  * En dos patadas: https://goo.gl/QP2BvK
 * [SCRATCH](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-scratch/content/)
 * [SCRATCH II Y MAKEY MAKEY](https://catedu.gitbooks.io/scratch-avanzado-y-makey-makey/content/)
 * [APP INVENTOR](https://catedu.gitbooks.io/app-inventor/content/)
