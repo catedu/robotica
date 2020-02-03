@@ -1,7 +1,7 @@
 # Summary
 
 * [OFERTA](README.md)
-* [PRÉSTAMO](chapter1.md)
+* [PRÉSTAMO](https://catedu.gitbooks.io/faq-aularagon/content/prestamos.html)
 * [TUTORIALES](tutoriales.md)
 * [Grupo Robotica Educativa en Aragón](grupo-robotica-educativa-en-aragon.md)
 * [Contacto](http://web.catedu.es/webcatedu/index.php/destacados/41-prueba)
