@@ -32,12 +32,12 @@ Todos se encuentran en éste repositorio de GitBook [https://legacy.gitbook.com/
 
 * [CODE](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-code-org/content/)
   * En dos patadas: [https://goo.gl/QP2BvK](https://goo.gl/QP2BvK)
-* **SCRATCH**
+* #### Scratch
  * [SCRATCH básico](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-scratch/content/)
  * [SCRATCH II Y MAKEY MAKEY](https://catedu.gitbooks.io/scratch-avanzado-y-makey-makey/content/)
  * [INTELIGENCIA ARTIFICIAL CON SCRATCH](https://catedu.gitbooks.io/inteligencia-artificial-con-scratch/content/)
 * [APP INVENTOR](https://catedu.gitbooks.io/app-inventor/content/)
-* **PYTHON** 
+* #### Python 
  * [PYTHON Introducción](https://catedu.gitbooks.io/introduccion-a-python/content/)
  * [PYTHON FOR EVERYBODY](https://catedu.gitbooks.io/python-for-person-in-everybody/content/)
 * [JAVA y POO](https://catedu.gitbooks.io/programacion-orientada-a-objetos-java/content/)
