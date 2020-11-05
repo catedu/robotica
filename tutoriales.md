@@ -16,7 +16,7 @@ Todos se encuentran en éste repositorio de GitBook [https://legacy.gitbook.com/
   * [Domótica con Arduino](https://catedu.github.io/domotica-con-arduino/)
   * [Art-uino](https://catedu.github.io/art-uino/)
 * **Microbit**
-  * [MicroBit](https://catedu.github.io/micro-bit/)
+  * [MicroBit](https://catedu.github.io/microbit-curso/)
   * [Microbit con SmartCar](https://catedu.github.io/smartcar-micro-bit/)
 * **Raspberry**
   * [Básico](https://catedu.github.io/raspberry-muy-basico/)
@@ -24,23 +24,23 @@ Todos se encuentran en éste repositorio de GitBook [https://legacy.gitbook.com/
   * [Alhphabot](https://catedu.github.io/alphabot/)
 * **mBot**
   * [mBot](https://catedu.github.io/robotica-educativa-con-mbot/)
-  * [mBot II](https://catedu.github.io/robotica-educativa-con-mbot-ii/)
+  * [mBot II](https://catedu.github.io/robotica-educativa-con-mbot-II/)
 * [SPHERO MINI](https://catedu.github.io/sphero-mini/)
-* [LEGO WEDO](https://catedu.github.io/ensena-pensamiento-computacional-con-lego-wedo/)
+* [LEGO WEDO](https://catedu.github.io/ensena-pensamiento-computacional-con-wego-wedo/)
 * [BEEBOT](https://catedu.github.io/robotica-en-infantil-con-bee-bot/)
 
 ## Pensamiento computacional
 
-* [CODE](https://catedu.github.io/ensena-pensamiento-computacional-con-code-org/)
+* [CODE](https://catedu.github.io/curso-codeorg/)
   * En dos patadas: [https://goo.gl/QP2BvK](https://goo.gl/QP2BvK)
 * #### Scratch
  * [SCRATCH básico](https://catedu.github.io/ensena-pensamiento-computacional-con-scratch/)
  * [SCRATCH II Y MAKEY MAKEY](https://catedu.github.io/scratch-avanzado-y-makey-makey/)
  * [INTELIGENCIA ARTIFICIAL CON SCRATCH](https://catedu.github.io/inteligencia-artificial-con-scratch/)
-* [APP INVENTOR](https://catedu.github.io/app-inventor/)
+* [APP INVENTOR](https://catedu.github.io/app-inventor-course/)
 * #### Python
  * [PYTHON Introducción](https://catedu.github.io/introduccion-a-python/)
  * [PYTHON FOR EVERYBODY](https://catedu.github.io/python-for-person-in-everybody/)
-* [JAVA y POO](https://catedu.github.io/programacion-orientada-a-objetos-java/)
+* [JAVA y POO](https://catedu.github.io/poo-java/)
 
 
