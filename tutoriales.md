@@ -9,39 +9,38 @@ Todos se encuentran en éste repositorio de GitBook [https://legacy.gitbook.com/
 ## Robótica
 
 * **Arduino**
-  * [Escornabot](https://catedu.gitbooks.io/escornabots/content/)
-  * [Básico con mBlock](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/)
-  * [Con mBlock y ECHIDNA](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/)
-  * [Con código y Edubásica](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/)
-  * [Domótica con Arduino](https://catedu.gitbooks.io/domotica-con-arduino/content/)
-  * [Art-uino](https://catedu.gitbooks.io/art-uino/content/)
+  * [Escornabot](https://catedu.github.io/escornabots/)
+  * [Básico con mBlock](https://catedu.github.io/ensena-pensamiento-computacional-con-arduino/)
+  * [Con mBlock y ECHIDNA](https://catedu.github.io/programa-arduino-con-echidna/)
+  * [Con código y Edubásica](https://catedu.github.io/programa-arduino-mediante-codigo/)
+  * [Domótica con Arduino](https://catedu.github.io/domotica-con-arduino/)
+  * [Art-uino](https://catedu.github.io/art-uino/)
 * **Microbit**
-  * [MicroBit](https://catedu.gitbooks.io/micro-bit/content/)
-  * [Microbit con SmartCar](https://catedu.gitbooks.io/smartcar-micro-bit/content/)
+  * [MicroBit](https://catedu.github.io/micro-bit/)
+  * [Microbit con SmartCar](https://catedu.github.io/smartcar-micro-bit/)
 * **Raspberry**
-  * [Básico](https://catedu.gitbooks.io/raspberry-muy-basico/content/)
-  * [Pibrella](https://catedu.gitbooks.io/pibrella/content/)
-  * [Alhphabot](https://catedu.gitbooks.io/alphabot/content/)
+  * [Básico](https://catedu.github.io/raspberry-muy-basico/)
+  * [Pibrella](https://catedu.github.io/pibrella/)
+  * [Alhphabot](https://catedu.github.io/alphabot/)
 * **mBot**
-  * [mBot](https://catedu.gitbooks.io/robotica-educativa-con-mbot/content/)
-  * [mBot II](https://catedu.gitbooks.io/robotica-educativa-con-mbot-ii/content/)
-* [SPHERO MINI](https://catedu.gitbooks.io/sphero-mini/content/)
-* [LEGO WEDO](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-lego-wedo/content/)
-* [BEEBOT](https://catedu.gitbooks.io/robotica-en-infantil-con-bee-bot/content/)
+  * [mBot](https://catedu.github.io/robotica-educativa-con-mbot/)
+  * [mBot II](https://catedu.github.io/robotica-educativa-con-mbot-ii/)
+* [SPHERO MINI](https://catedu.github.io/sphero-mini/)
+* [LEGO WEDO](https://catedu.github.io/ensena-pensamiento-computacional-con-lego-wedo/)
+* [BEEBOT](https://catedu.github.io/robotica-en-infantil-con-bee-bot/)
 
 ## Pensamiento computacional
 
-* [CODE](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-code-org/content/)
+* [CODE](https://catedu.github.io/ensena-pensamiento-computacional-con-code-org/)
   * En dos patadas: [https://goo.gl/QP2BvK](https://goo.gl/QP2BvK)
 * #### Scratch
- * [SCRATCH básico](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-scratch/content/)
- * [SCRATCH II Y MAKEY MAKEY](https://catedu.gitbooks.io/scratch-avanzado-y-makey-makey/content/)
- * [INTELIGENCIA ARTIFICIAL CON SCRATCH](https://catedu.gitbooks.io/inteligencia-artificial-con-scratch/content/)
-* [APP INVENTOR](https://catedu.gitbooks.io/app-inventor/content/)
-* #### Python 
- * [PYTHON Introducción](https://catedu.gitbooks.io/introduccion-a-python/content/)
- * [PYTHON FOR EVERYBODY](https://catedu.gitbooks.io/python-for-person-in-everybody/content/)
-* [JAVA y POO](https://catedu.gitbooks.io/programacion-orientada-a-objetos-java/content/)
-
+ * [SCRATCH básico](https://catedu.github.io/ensena-pensamiento-computacional-con-scratch/)
+ * [SCRATCH II Y MAKEY MAKEY](https://catedu.github.io/scratch-avanzado-y-makey-makey/)
+ * [INTELIGENCIA ARTIFICIAL CON SCRATCH](https://catedu.github.io/inteligencia-artificial-con-scratch/)
+* [APP INVENTOR](https://catedu.github.io/app-inventor/)
+* #### Python
+ * [PYTHON Introducción](https://catedu.github.io/introduccion-a-python/)
+ * [PYTHON FOR EVERYBODY](https://catedu.github.io/python-for-person-in-everybody/)
+* [JAVA y POO](https://catedu.github.io/programacion-orientada-a-objetos-java/)
 
 
