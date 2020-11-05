@@ -25,7 +25,7 @@ Todos se encuentran en éste repositorio de GitBook [https://legacy.gitbook.com/
 * **mBot**
   * [mBot](https://catedu.github.io/robotica-educativa-con-mbot/)
   * [mBot II](https://catedu.github.io/robotica-educativa-con-mbot-II/)
-* [SPHERO MINI](https://catedu.github.io/sphero-mini/)
+* [SPHERO MINI](https://catedu.github.io/sphero-curso/)
 * [LEGO WEDO](https://catedu.github.io/ensena-pensamiento-computacional-con-wego-wedo/)
 * [BEEBOT](https://catedu.github.io/robotica-en-infantil-con-bee-bot/)
 
