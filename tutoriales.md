@@ -9,7 +9,7 @@ Todos se encuentran en éste repositorio de GitBook [https://legacy.gitbook.com/
 ## Robótica
 
 * **Arduino**
-  * [Escornabot](https://catedu.github.io/escornabots/)
+  * [Escornabot](https://catedu.github.io/escornabots-curso/)
   * [Básico con mBlock](https://catedu.github.io/ensena-pensamiento-computacional-con-arduino/)
   * [Con mBlock y ECHIDNA](https://catedu.github.io/programa-arduino-con-echidna/)
   * [Con código y Edubásica](https://catedu.github.io/programa-arduino-mediante-codigo/)
