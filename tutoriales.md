@@ -1,11 +1,5 @@
 # Tutoriales
 
-## ¿Quieres descargártelos?
-
-Todos se encuentran en éste repositorio de GitBook [https://legacy.gitbook.com/@catedu](https://legacy.gitbook.com/@catedu). DESCARGABLES EN FORMATO PDF, ePUB, eMobi.. y **CON LICENCIA CC **puedes usarlos en tus clases respetando la licencia.
-
-![](/assets/descarga.jpg.jpg)
-
 ## Robótica
 
 * **Arduino**
