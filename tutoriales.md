@@ -9,6 +9,7 @@
   * [Con código y Edubásica](https://catedu.github.io/programa-arduino-mediante-codigo/)
   * [Domótica con Arduino](https://catedu.github.io/domotica-con-arduino/)
   * [Art-uino](https://catedu.github.io/art-uino/)
+  * [ROVER MARCIANO CON NodeMCU ARDUINOBLOCKS y BLYNK](https://catedu.github.io/Rover-arduino/)
 * **Microbit**
   * [MicroBit](https://catedu.github.io/microbit-curso/)
   * [Microbit con SmartCar](https://catedu.github.io/smartcar-micro-bit/)
