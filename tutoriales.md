@@ -12,7 +12,7 @@
   * [ROVER MARCIANO CON NodeMCU ARDUINOBLOCKS y BLYNK](https://catedu.github.io/Rover-arduino/)
 * **Robots Makers basados en Ardiuno**
  * [Escornabot equivalente al beebot](https://catedu.github.io/escornabots-curso/)
- * [**mClon equivalente al mBot](https://catedu.github.io/mClon/)
+ * [mClon equivalente al mBot](https://catedu.github.io/mClon/)
 * **Raspberry**
   * [Básico](https://catedu.github.io/raspberry-muy-basico/)
   * [Pibrella](https://catedu.github.io/pibrella/)
